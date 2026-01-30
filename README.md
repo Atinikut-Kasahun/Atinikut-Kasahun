@@ -23,7 +23,8 @@ I enjoy turning ideas into functional, user-friendly systems.
 ![Database](https://skillicons.dev/icons?i=mysql,postgres)
 
 ### Tools & Others
-![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,ps,ai)
+
 
 ---
 
