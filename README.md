@@ -46,9 +46,31 @@ I enjoy turning ideas into functional, user-friendly systems.
 
 ## 📌 Featured Projects
 
-### 🌐 IT Support System
-A full-stack support system built with PHP, MySQL & TailwindCSS.  
-Features ticket management and admin dashboard.
+### 🏫 School Management System
+Full-stack system for managing students, teachers, and records.  
+Built with PHP, MySQL, JavaScript, and TailwindCSS.  
+✔ Student management  
+✔ Admin dashboard  
+✔ Data management system  
+
+---
+
+### 🏨 Luxury Hotel Website
+Modern hotel website with booking and responsive UI.  
+Built using HTML5, JavaScript, React & TailwindCSS.  
+✔ Booking interface  
+✔ Modern UI/UX design  
+✔ Mobile responsive  
+
+---
+
+### 💰 Expense Tracker
+A web app to track daily expenses and manage budgets.  
+Built with Node.js, PostgreSQL & JavaScript.  
+✔ Add & track expenses  
+✔ Budget monitoring  
+✔ Simple analytics  
+
 
 ### 🛒 Full-Stack Web Apps
 Developed responsive systems using React, Node.js and PostgreSQL.
