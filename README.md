@@ -1,6 +1,6 @@
-# Hi 👋 I'm Atinikut-Kasahun
+# Hi  I'm Atinikut-Kasahun
 
-### 🚀 Junior Full-Stack Web Developer
+###  Junior Full-Stack Web Developer
 
 I’m a passionate junior full-stack developer focused on building real-world web applications and continuously improving my skills.  
 I enjoy turning ideas into functional, user-friendly systems.
@@ -81,11 +81,11 @@ Developed responsive systems using React, Node.js and PostgreSQL.
 
 📧 Email:zeatgo59@gmail.com
 💼 LinkedIn: www.linkedin.com/in/atinkut-kasahun-960b66334  
-🌐 Portfolio:comming soon 
+🌐 Portfolio:https://portfolio.zeatstack.com/
 🐙 GitHub: https://github.com/Atinikut-Kasahun
 
 ---
 
 ## ⚡ Fun Fact
 
-I love solving real-world problems with code and turning ideas into working systems 🚀
+I love solving real-world problems with code and turning ideas into working systems 
