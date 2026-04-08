@@ -82,7 +82,7 @@ Developed responsive systems using React, Node.js and PostgreSQL.
 📧 Email:zeatgo59@gmail.com
 💼 LinkedIn: www.linkedin.com/in/atinkut-kasahun-960b66334  
 🌐 Portfolio:https://portfolio.zeatstack.com/
-🐙 GitHub: https://github.com/Atinikut-Kasahun
+
 
 ---
 
